@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<title>Activity 1-2 - Nishtha Dubey</title>	
 	
-	<meta name="description" content="Activity 1-2 - Computer Programming">
+	<meta name="description" content="Embedding Images">
 	<meta name="author" content="Nishtha Dubey">	
 	
 	<!-- styles - internal (not linked) -->
@@ -41,7 +41,7 @@
 	<p>A flowchart is a diagram that represents a set of instructions. Flowcharts use symbols to represent different types of instructions. These symbols are used to then show a step-by-step solution to the problem.</p>
 	<img src="https://icsprogramming.ca/test/images/flowchart_symbols.jpg" alt="flowchart-symbols" title="Flowchart Symbols" style="width: 400px;" />
 
-	<!-- your table and images go below this comment line -->
+	<!--  table and images -->
 	<table cellpadding=’0’ cellspacing=’0’ border=’1’>
 		<tr>
 			<td> 

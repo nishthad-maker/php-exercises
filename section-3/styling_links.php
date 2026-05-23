@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Styling Links & Other CSS Tips</title>	
-	<meta name="description" content="More about CSS">
+	<meta name="description" content=" Creating styled buttons and linking them">
 	<meta name="author" content="Nishtha Dubey">
 
 	<!-- link to font-awesome -->

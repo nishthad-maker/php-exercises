@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<title>Calculations with PHP</title>	
 	
-	<meta name="description" content="Activity 2.2">
+	<meta name="description" content="Calculations & user input">
 	<meta name="author" content="Nishtha Dubey">
 
 	<!-- link to font-awesome -->

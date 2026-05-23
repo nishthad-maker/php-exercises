@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">	
 	<title>Contact Form</title>	
 	
-	<meta name="description" content="Contact Form">
+	<meta name="description" content=" Contact us form that will automatically send an e-mail to the intended recipient.">
 	<meta name="author" content= "Nishtha Dubey">	
 
 	<!-- google fonts -->

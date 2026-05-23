@@ -6,7 +6,7 @@
 	
 	<title>Text-based Adventure Game</title>	
 	
-	<meta name="description" content="Choose your own Adventure">
+	<meta name="description" content="Get methond & Conditional statment">
 	<meta name="author" content="Nishtha Dubey">
 	<!-- link to font-awesome -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />

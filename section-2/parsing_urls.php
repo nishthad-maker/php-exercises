@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<title>Working with Variables: Parsing URLs</title>	
 	
-	<meta name="description" content="Activity 2.2B">
+	<meta name="description" content="Uses Get method from the URL">
 	<meta name="author" content="Nishtha Dubey">
 
 	<!-- link to font-awesome -->

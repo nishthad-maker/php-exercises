@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">	
 	<title>Collatz Conjecture</title>	
 	
-	<meta name="description" content="collatz_conjecture">
+	<meta name="description" content="User input, calculation & while loop">
 	<meta name="author" content= "Nishtha Dubey">	
 
 	<!-- google fonts -->

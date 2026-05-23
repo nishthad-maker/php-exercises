@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <title>Embedding</title>
-<meta name="description" content="Embedding">
+<meta name="description" content="Embedding videos & maps">
 <meta name="author" content="Nishtha Dubey">
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">

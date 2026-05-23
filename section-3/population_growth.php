@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">	
 	<title>Population Growth</title>	
 	
-	<meta name="description" content="population growth">
+	<meta name="description" content="User input & calculation">
 	<meta name="author" content= "Nishtha Dubey">	
 
 	<!-- google fonts -->

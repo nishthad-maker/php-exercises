@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">	
 	<title>Crazy Cats</title>	
 	
-	<meta name="description" content="Crazy Cats">
+	<meta name="description" content="User Inputs & Conditional Statements">
 	<meta name="author" content= "Nishtha Dubey">	
 
 	<!-- google fonts -->

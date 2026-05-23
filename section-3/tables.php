@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Building Tables in HTML</title>
-    <meta name="description" content="activity_1.4">
+    <meta name="description" content="create school time tables">
     <meta name="author" content="Nishtha Dubey"> 
 
     <!-- favicon - shows in the browser tab -->

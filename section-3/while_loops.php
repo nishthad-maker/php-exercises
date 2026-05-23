@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">	
 	<title>While loops</title>	
 	
-	<meta name="description" content="while loops">
+	<meta name="description" content="While loops">
 	<meta name="author" content= "Nishtha Dubey">	
 
 	<!-- google fonts -->

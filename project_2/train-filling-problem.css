@@ -1,0 +1,36 @@
+/*responsive desgin */
+.grid{
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 15px;
+}.col-span-3, .col-span-2, .col-span-1{
+	padding: 20px;
+	border: 10px solid #5E5F64;
+	box-sizing: border-box;
+	background:rgba(169, 173, 176, 0.7);
+}.col-span-3{
+	grid-column: span 3;
+}.col-span-2{
+	grid-column: span 2;
+}.col-span-1{
+	grid-column: span 1;
+}
+.container{
+	position: relative;
+	display: inline-block;
+	padding: 20px;
+	text-align: center;
+	font-size: 1.3em;
+}
+.subtn{
+	margin: 10px;
+	color: yellow;
+	background-color: #5E5F64;
+	font-size: 19px;
+	padding: 15px 25px;
+	cursor: pointer
+}
+.subtn:hover{
+	color: #5E5F64;
+	background-color: yellow;
+}
